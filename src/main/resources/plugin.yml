@@ -1,0 +1,4 @@
+name: KTAcademy
+version: '${project.version}'
+main: com.github.maazapan.ktacademy.KTAcademy
+api-version: '1.16'
