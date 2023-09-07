@@ -1,2 +1,11 @@
 config:
-  prefix: " &8▸ &a&l✔ &8| &e&lKTAcademy &8» &f"
+  prefix: " &8▸ &a&l✔ &8| #F557FFe&lKTAcademy &8» &f"
+
+messages:
+  args-not-found: "&fPor favor utiliza &7&n/academy help&f para mas informacion."
+  args-error-create: "&fPor favor utiliza &7&n/academy create <aldea> <dia>&f para crear una academia."
+  no-permission: "&cNo tienes permiso para hacer eso!"
+  day-taken: "&cEl dia &7%day%&c ya esta tomado!"
+  number-format-error: "&cPor favor utiliza un numero valido!"
+  village-not-exists: "&cLa aldea &7%village%&c no existe!"
+  create-success: "&fHas creado una academia en la aldea &7%village%&f para el dia &e%day%&f!"
